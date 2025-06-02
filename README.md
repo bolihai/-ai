@@ -1,2 +1,2 @@
-# -ai
-通过训练ai，来学习RNN, LSTM, Transform，区分三者的不同，分别来学习他们的优劣
+# 训练AI
+1. 大致了解Transformer的机制以及代码
